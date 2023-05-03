@@ -11,12 +11,14 @@
     width: 25%;
     padding: 0 10px;
 }
-.row {margin: 0 -5px;}
-@media screen (width: 600px) {}
 .card {
     height: 250px;
     padding: 16px;
     text-align: center;
     background-color: #f1f1f1;
 }
-  
+.text:hover{
+    background-color: red;
+    text-align: center;
+    color: white;
+}
